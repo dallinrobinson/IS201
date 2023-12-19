@@ -1,0 +1,89 @@
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+header {
+    background-color: #444;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Additional Styles */
+#experience,
+#education,
+#skills,
+#portfolio {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+body {
+    background-color: palegoldenrod;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+a {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+a:hover {
+    color: violet ;
+}
+
+.header-image-container img {
+    width: 25%; 
+    height: auto; 
+    display: block; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tableauplaceholder {
+    margin-top: 20px; 
+}
+
+/* Style for the YouTube container */
+.youtube-container {
+    text-align: center; /* Center the content horizontally */
+    margin: 40px 0; /* Add a large margin (adjust as needed) */
+}
+
+/* Style for the YouTube video iframe */
+.youtube-container iframe {
+    max-width: 100%; /* Ensure the video does not exceed the container width */
+}
+
+
